@@ -1,0 +1,11 @@
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.Frm1.resources
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Visualstudio\IATC  C# lessons\Calculator\Calculator\obj\Debug\Calculator.pdb
